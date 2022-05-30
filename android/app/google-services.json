@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "64386637231",
+    "project_id": "mcohub",
+    "storage_bucket": "mcohub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64386637231:android:b9177f61f74a5e0571a35a",
+        "android_client_info": {
+          "package_name": "com.mcohub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64386637231-ss2d23ed292l4jjrkkoi2di6t6lb1h19.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mcohub",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "64386637231-u42spnjt3oji40k239dsv9dqg12dk1ea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4sD5Y9Z5NlS3YHbsCN67kQjgsddDL1Zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64386637231-u42spnjt3oji40k239dsv9dqg12dk1ea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
